@@ -55,4 +55,4 @@ A Front-End Engineer based in **Dallas, TX** 🇺🇸
 ## 🤝 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hirokoymj.com-blue?style=for-the-badge)](https://www.hirokoymj.com)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/hirokoymj)
+
