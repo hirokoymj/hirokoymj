@@ -3,7 +3,7 @@
 A Front-End Engineer based in **Dallas, TX** 🇺🇸
 
 - 15+ years of Front-End experience
-- Specialized in **React.js / Next.js**
+- Specialized in **React.js / Next.js / GraphQL**
 - Portfolio: [hirokoymj.com](https://www.hirokoymj.com)
 - Open to **React/Front-End opportunities in Dallas**
 
