@@ -44,6 +44,12 @@ A Front-End Engineer based in **Dallas, TX** 🇺🇸
 
 ---
 
+## 🏅 Certifications
+
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Certified-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://examregistration.github.com/certification/ACTIONS)
+
+---
+
 ## 🤝 Connect with Me
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-hirokoymj.com-blue?style=for-the-badge)](https://www.hirokoymj.com)
