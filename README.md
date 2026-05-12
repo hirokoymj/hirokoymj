@@ -48,6 +48,10 @@ A Front-End Engineer based in **Dallas, TX** 🇺🇸
 
 [![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Certified-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://examregistration.github.com/certification/ACTIONS)
 
+[![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-Certified-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)](https://examregistration.github.com/certification/ACTIONS)
+[![GCP Professional Cloud Developer](https://img.shields.io/badge/GCP-Professional_Cloud_Developer-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white)](https://www.credly.com/badges/2f3583f9-2afc-494d-9d31-c17523091ae3)
+
+
 ---
 
 ## 🤝 Connect with Me
